@@ -54,6 +54,15 @@ tester la doc avec postman:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9d04a811-a431-41d1-8545-58f8d96d3073)
 
 
+8. Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/323b6ef1-f2c2-4f98-b34c-d4dd987811e4)
+
+
+9. Créer les DTOs et Mappers
+
+10. Créer la couche Service (métier) et du micro service
+
+
 
 
 
