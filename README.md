@@ -41,6 +41,10 @@ update currency of account using put in postman:
 doc de rest API:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/08f3dfd6-d9c0-4e35-b27c-49235cf4fd84)
 
+tester un compte avec son id: 
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/7761591b-6db6-4e91-a35f-e7870c6b4411)
+
+
 
 
 
