@@ -32,7 +32,7 @@ postman test using id :
 create account using postman:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/818afbd9-b650-4e68-a535-e5ee3da3c595)
 
-Modify currency of account using put in postman:
+update currency of account using put in postman:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/b018e20d-1dbb-4a6b-96fe-4c7fd724954b)
 
 
