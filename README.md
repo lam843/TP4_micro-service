@@ -35,6 +35,9 @@ create account using postman:
 update currency of account using put in postman:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/b018e20d-1dbb-4a6b-96fe-4c7fd724954b)
 
+7.documentation Swagger:
+
+
 
 
 
