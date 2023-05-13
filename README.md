@@ -59,6 +59,8 @@ en donnant les link pour chaque account:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/323b6ef1-f2c2-4f98-b34c-d4dd987811e4)
 search all account that has as type saving accounts:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/8348957f-ce35-44d8-81ad-e4b607abbe84)
+projection:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/01eb3352-49e0-4299-8af8-6a65c05a774a)
 
 
 
