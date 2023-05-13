@@ -47,6 +47,10 @@ tester un compte avec son id:
 create new account using post:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/864f8ce1-6d2d-4a7b-8252-d1d37b3d6790)
 
+le compte est bien cree:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/c009d80d-9166-45c8-ac5e-742e2aa4b6db)
+
+
 
 
 
