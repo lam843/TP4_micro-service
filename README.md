@@ -38,6 +38,10 @@ update currency of account using put in postman:
 7.documentation Swagger:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/a7d755f8-6af8-4420-8df2-b510c4585fbb)
 
+doc de rest API:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/08f3dfd6-d9c0-4e35-b27c-49235cf4fd84)
+
+
 
 
 
