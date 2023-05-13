@@ -18,3 +18,7 @@
 ===========================================================================
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/97627e4d-2383-4894-829c-18d4f6189f3b)
 
+
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/96cfb8c9-ba34-4716-a67d-43655decf2f7)
+
+
