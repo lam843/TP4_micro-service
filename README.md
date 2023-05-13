@@ -29,6 +29,9 @@ rest API test:
 postman test using id :
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9b5e61e6-266c-4681-93ce-265502eb96b7)
 
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/818afbd9-b650-4e68-a535-e5ee3da3c595)
+
+
 
 
 
