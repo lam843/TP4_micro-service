@@ -55,6 +55,7 @@ tester la doc avec postman:
 
 
 8. Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections:
+en donnant les link pour chaque account:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/323b6ef1-f2c2-4f98-b34c-d4dd987811e4)
 
 
