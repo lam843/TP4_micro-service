@@ -26,7 +26,9 @@ consulter un compte by id:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/bad09a1e-3709-4e6f-a9c3-50a5df715cd4)
 
 rest API test:
-postman test
+postman test using id :
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9b5e61e6-266c-4681-93ce-265502eb96b7)
+
 
 
 
