@@ -65,6 +65,9 @@ projection:
 
 
 9. Créer les DTOs et Mappers
+test DTO:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/cad65da8-e074-442a-a797-e6c5898328a0)
+
 
 10. Créer la couche Service (métier) et du micro service
 
