@@ -50,6 +50,10 @@ create new account using post:
 le compte est bien cree:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/c009d80d-9166-45c8-ac5e-742e2aa4b6db)
 
+tester la doc avec postman:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9d04a811-a431-41d1-8545-58f8d96d3073)
+
+
 
 
 
