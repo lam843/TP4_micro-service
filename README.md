@@ -44,6 +44,10 @@ doc de rest API:
 tester un compte avec son id: 
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/7761591b-6db6-4e91-a35f-e7870c6b4411)
 
+create new account using post:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/864f8ce1-6d2d-4a7b-8252-d1d37b3d6790)
+
+
 
 
 
