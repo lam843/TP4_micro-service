@@ -71,6 +71,18 @@ mappers:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/54286ebd-1ec9-46da-8842-9288c06d1905)
 
 
+Créer un Web service GraphQL pour ce micro-service
+list of account using id,balance,currency,type:
+query pour recuperer une list d accounts:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9fa35618-f226-45cb-bb7c-ed0de35b8cf7)
+une query pour recuperer un compte sachant que leur Id:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/15fbda51-572c-42da-93c5-7c7bd2070609)
+exception handeler:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9763ffd7-7895-4baf-96a4-a18032e68967)
+
+
+
+
 
 
 
