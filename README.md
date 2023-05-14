@@ -79,6 +79,9 @@ une query pour recuperer un compte sachant que leur Id:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/15fbda51-572c-42da-93c5-7c7bd2070609)
 exception handeler:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9763ffd7-7895-4baf-96a4-a18032e68967)
+add account using mutation :
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/b1195c03-1398-4fef-940f-567dba6cbcc1)
+
 
 
 
