@@ -16,12 +16,14 @@
         
         
 ===========================================================================
-![image](https://github.com/lam843/TP4_micro-service/assets/78732216/97627e4d-2383-4894-829c-18d4f6189f3b)
-bankaccounts
 
+#### Projet Spring Boot avec les dépendances Web, Spring Data JPA, H2, Lombok pour gérer les comptes bancaires:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/97627e4d-2383-4894-829c-18d4f6189f3b)
+
+la liste des bankaccounts:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/96cfb8c9-ba34-4716-a67d-43655decf2f7)
 
-consulter un compte by id:
+consulter un compte usant un  id:
 
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/bad09a1e-3709-4e6f-a9c3-50a5df715cd4)
 
