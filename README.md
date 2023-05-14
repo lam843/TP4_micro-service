@@ -56,7 +56,7 @@ Tester le documentation avec postman:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9d04a811-a431-41d1-8545-58f8d96d3073)
 
 
-8. Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections:
+#### 8. Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections:
 
 En donnant les link pour chaque account:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/323b6ef1-f2c2-4f98-b34c-d4dd987811e4)
@@ -68,7 +68,7 @@ La projection:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/01eb3352-49e0-4299-8af8-6a65c05a774a)
 
 
-9. Créer les DTOs et Mappers:
+#### 9. Créer les DTOs et Mappers:
 
 Test de DTO:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/cad65da8-e074-442a-a797-e6c5898328a0)
@@ -76,7 +76,7 @@ Test de DTO:
 Mappers:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/54286ebd-1ec9-46da-8842-9288c06d1905)
 
-11. Créer un Web service GraphQL pour ce micro-service :
+#### 11. Créer un Web service GraphQL pour ce micro-service :
 
 liste de compte utilisant l'identifiant, le solde, la devise, le type et requête pour récupérer une liste de comptes:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9fa35618-f226-45cb-bb7c-ed0de35b8cf7)
@@ -97,7 +97,7 @@ Mettre à jour le compte en utilisant l'identifiant :
 delete l'account :
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/6b0c662f-5742-4f60-8c59-0b0674f1a1be)
 
-BD:
+la BD :
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/19364673-8362-42e4-bd06-d207d1f28d1e)
 
 Rechercher par nom de client :
