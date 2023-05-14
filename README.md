@@ -81,6 +81,18 @@ exception handeler:
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/9763ffd7-7895-4baf-96a4-a18032e68967)
 add account using mutation :
 ![image](https://github.com/lam843/TP4_micro-service/assets/78732216/b1195c03-1398-4fef-940f-567dba6cbcc1)
+update account using id:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/e249f1ab-af0a-4a03-8ca2-2b301b6d381e)
+delete account :
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/6b0c662f-5742-4f60-8c59-0b0674f1a1be)
+
+BD
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/19364673-8362-42e4-bd06-d207d1f28d1e)
+search by customer name:
+![image](https://github.com/lam843/TP4_micro-service/assets/78732216/c365a805-7d69-45ba-b59a-d7ef22afcaf6)
+
+
+
 
 
 
